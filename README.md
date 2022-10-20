@@ -1,6 +1,6 @@
 # Projet-C-L3-roguelite-MLV-obligatoire-
 
-Ceci est mon projet de fin de semestre en C en 3ème année de Licence fait tout seul et rendu tel quel sans modif et donc pas du tout opti.
+Ceci est mon projet de fin de (premier) semestre en C en 3ème année de Licence fait tout seul et rendu tel quel sans modif et donc pas du tout opti.
 Il est la pour le souvenir, si je suis assez deter je ferai une meilleur version.
 
 Niveau méta et game design le jeu est fait à l'arrache. Il n'y a aucun équilibrage et le jeu est aléaotoire et infini.
